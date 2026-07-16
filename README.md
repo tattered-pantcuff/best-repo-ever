@@ -1,3 +1,3 @@
 # best-repo-ever
-These are also changes to line 2
+new branch 1 change is here on line 2
 Add some content using your favorite text editor
